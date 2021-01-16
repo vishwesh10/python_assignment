@@ -2,15 +2,7 @@
 
 Geowox_vishwesh contains the required main and test files.
 
-The following is the directory structure:
-
-  Geowox_vishwesh
+Geowox_vishwesh/geowox_main.py.         (This file contains the main implementation of the assignment)
   
-  |-main
-  
-  | |-geowox_main.py.         (This file contains the main implementation of the assignment)
-  
-  |-test
-  
-  | |-test_geowox_main.py.   (This file contains the tests for the geowox_main.py)
+Geowox_vishwesh/test_geowox_main.py.   (This file contains the tests for the geowox_main.py)
   
